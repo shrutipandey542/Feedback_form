@@ -1,36 +1,39 @@
-##Feedback Form
----Overview
+📝 Feedback Form
+📌 Project Overview
 
-A simple feedback form application developed using Python and Flask. The project allows users to submit feedback through a web form and demonstrates basic form handling in a Flask application.
----
+The Feedback Form is a simple web application developed using Flask that allows users to submit feedback through an interactive form. The project demonstrates form handling and template rendering in a Flask application.
 
-Features
-1)User feedback submission form
-2)Simple and user-friendly interface
-3)Form handling using Flask
-4)Beginner-friendly web application
+⚙️ Technologies Used
+Python
+Flask
+HTML
 
-Tech Stack
-1)Python
-2)Flask
-3)HTML
+🌐 Features
+User-friendly feedback form
+Simple and clean interface
+Form submission handling
+Beginner-friendly implementation
 
-Project Structure
-Feedback-Form/
+📂 Project Structure
+feedback-form/
 │
 ├── app.py
 │
-└── templates/
-    └── form.html
-    
-Installation
-1)Clone the repository.
-2)Install Flask.
-3)Run app.py.
-4)Open the application in your browser.
+├── templates/
+│   └── form.html
+│
+└── README.md
 
-Learning Outcomes
-1)Understanding Flask routing.
-2)Working with HTML forms.
-3)Handling user input in Flask.
-4)Building a basic web application using Python.
+▶️ How to Run
+1. Install dependencies
+pip install flask
+2. Run Flask app
+python app.py
+3. Open in browser
+http://127.0.0.1:5000/
+
+🎯 Learning Outcomes
+Understanding Flask routing
+Working with HTML forms
+Handling user input
+Template rendering using Flask
