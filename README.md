@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-The Feedback Form is a web application developed using Flask that allows users to submit feedback through an interactive and user-friendly form. The application collects user responses, processes submitted data, and demonstrates the fundamentals of form handling and template rendering in Flask.
-
-## ⚙️ Technologies Used
+The Feedback Form is a web application developed using Flask that allows users to submit feedback through an interactive and user-friendly form. The application collects user responses, processes submitted data.
 
 1. Python
 2. Flask (Web Framework)
